@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 import './global.css';
 
-import Login from './pages/Login';
+import Routes from './routes';
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-      <Login/>
+      <Routes/>
     </div>
   );
 } 

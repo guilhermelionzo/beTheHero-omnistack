@@ -1,4 +1,5 @@
 /backend/node_modules
+/backend/src/database/dev.sqlite
 /frontend/node_modules
 /frontend/node_modules
 /frontend/.gitignore
